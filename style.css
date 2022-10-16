@@ -1,0 +1,30 @@
+body{
+    /*background-image: url(https://media.istockphoto.com/photos/hairstylist-serving-client-at-barber-shop-picture-id639607852?b=1&k=20&m=639607852&s=170667a&w=0&h=imeTbgXsU4jGivfk7gJkQk7h8lHwCv31ptqFqh0iQAs=);*/
+    background-color: black;
+    color:aliceblue;
+}
+#main {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+    margin-bottom: 24px;
+    
+  }
+  img{
+    height: 18rem;
+    width: 18rem;
+    border-radius: 15px;
+  }
+  div{
+    text-align: center;
+    font-size: 22px;
+  }
+  h1{
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Nabla', cursive;;
+    color: red;
+  }
+
