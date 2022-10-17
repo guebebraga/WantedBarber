@@ -1,0 +1,24 @@
+[
+    {
+        "link":"https://plus.unsplash.com/premium_photo-1663097426793-1c48440450b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Bob Matters",
+        "id": 1
+    },
+    {
+        "link":"https://media.istockphoto.com/photos/portrait-of-a-barber-picture-id1340452153?b=1&k=20&m=1340452153&s=170667a&w=0&h=6yWVjxIFVbbSud1yxGC2oekTFHWgmODah2W1UjRkUiU=",
+        "name":"Marcos Sans",
+        "id":2
+
+    },
+    {
+        "link":"https://th.bing.com/th/id/OIP.bqF1lrx0TWm8g-uPyujuHAHaE8?w=228&h=180&c=7&r=0&o=5&pid=1.7",
+        "name": "Brian Adams",
+        "id":3
+    },
+    {
+        "link":"https://media.istockphoto.com/photos/barber-shop-picture-id1314067876?b=1&k=20&m=1314067876&s=170667a&w=0&h=NsMkrL6uXa7pfivuux1KgAh1LDoS5_UgGTidqkmBBzg=",
+        "name":"Jose Olivera",
+        "id":4
+    }
+
+]
