@@ -1,7 +1,7 @@
 const main = document.getElementById("main");
-
+//para saber si la pagina cargo
 document.addEventListener("DOMContentLoaded",()=>{
-    fetchData();
+    fetchData();//invoco fetch
 });
 
 const fetchData= async()=>{
@@ -30,9 +30,5 @@ const showImage =(Jsn)=>{
         </div>
         `
     });
-main.innerHTML = lista;
-
-
-  
-    
+main.innerHTML = lista;    
 };
