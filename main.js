@@ -22,12 +22,12 @@ const showImage =(Jsn)=>{
 
     Jsn.forEach(({link ,name}) => {
         lista+=`
-        <div class="barber">
+        <article class="barber">
             <img src=${link}>
             <p>${name}</p>
             <input type="date">
             <button>Agendarse</button>
-        </div>
+        </article>
         `
     });
 main.innerHTML = lista;    
